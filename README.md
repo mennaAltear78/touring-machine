@@ -59,5 +59,5 @@ This project is a simulator for a Turing Machine written in Java. It allows user
 - **Transition Table**: The transition table defines the rules for how the machine moves from one state to another based on the current symbol on the tape.
 - **Head Movement**: The machine moves its head based on the defined transitions ('R' for right, 'L' for left, 'Y' for halt, 'N' for rejection).
 
-## 📂 **Project Structure**
+
 
